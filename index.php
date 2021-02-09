@@ -7,6 +7,4 @@ echo "Merge d2";
 echo "Merge 3";
 echo "Merge 4";
 echo "Merge 3";
-echo "Incoming";
-echo "Current Change";
-echo "Incoming change";
+echo "Incoming1";
