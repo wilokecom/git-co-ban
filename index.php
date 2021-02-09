@@ -15,3 +15,8 @@ echo "RB5";
 echo "RB7";
 echo "RB8";
 echo "RB9";
+
+
+function getTitle($title) {
+    return '<h1>'.$title.'</h1>';
+}
