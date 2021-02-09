@@ -8,3 +8,4 @@ echo "Merge 3";
 echo "Merge 4";
 echo "Merge 3";
 echo "Incoming";
+echo "Current Change";
