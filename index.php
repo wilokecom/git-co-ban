@@ -17,6 +17,6 @@ echo "RB8";
 echo "RB9";
 
 
-function getTitle($title, $heading = 'h1') {
-    return '<'.$heading.'>'.$title.'</'.$heading.'>';
+function getTitle($title, $heading = 'h1', $classes="") {
+    return '<'.$heading.' class="'.$classes.'">'.$title.'</'.$heading.'>';
 }
