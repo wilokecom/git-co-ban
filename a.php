@@ -1,3 +1,3 @@
 <?php
 
-getTitle("Wiloke");
+getTitle("Wiloke", "h2");
