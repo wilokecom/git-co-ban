@@ -1,6 +1,6 @@
 <?php
 
-echo "Merge b";
+echo "Merge b1";
 echo "Merge a";
 echo "Merge c";
 echo "Merge d2";
@@ -16,3 +16,7 @@ echo "RB7";
 echo "RB8";
 echo "RB9";
 
+
+function getTitle($title, $heading = 'h1', $classes="") {
+    return '<'.$heading.' class="'.$classes.'">'.$title.'</'.$heading.'>';
+}
