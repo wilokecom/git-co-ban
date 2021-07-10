@@ -1,4 +1,2 @@
 <?php
-
-getTitle("Wiloke", "h2", "red");
-echo "a";
+echo "123";
